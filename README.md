@@ -19,8 +19,10 @@ Using yarn:
 yarn add test-dependence
 ```
 
-## Using
+## Using example
 
-```shell
-npm run test
+```js
+const test = require('test-dependence');
+
+console.log(test.get_random_size_array(1, 10));
 ```
