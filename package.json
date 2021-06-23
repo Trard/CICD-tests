@@ -1,5 +1,5 @@
 {
-    "name": "cicd-tests",
+    "name": "test-dependence",
     "version": "1.4.0",
     "description": "Test repo for testing tests",
     "main": "lib/index.js",
