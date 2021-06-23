@@ -10,13 +10,13 @@ Test package for testing tests.
 Using npm:
 
 ```shell
-npm i cicd-tests
+npm i test-dependence
 ```
 
 Using yarn:
 
 ```shell
-yarn add cicd-tests
+yarn add test-dependence
 ```
 
 ## Using
