@@ -1,25 +1,32 @@
 # Test-Dependence
 
+Test [Dependence](https://github.com/Trard/test-dependence) for [Dependent](https://github.com/Trard/test-dependent).
+
 [![CI](https://github.com/Trard/test-dependence/actions/workflows/CI.yml/badge.svg)](https://github.com/Trard/CICD-tests/actions/workflows/CI.yml)
 [![CD](https://github.com/Trard/test-dependence/actions/workflows/CD.yml/badge.svg)](https://github.com/Trard/CICD-tests/actions/workflows/CD.yml)
 
-Test [Dependence](https://github.com/Trard/test-dependence) for [Dependent](https://github.com/Trard/test-dependent).
+## Contents
+
+1. [Installation](https://github.com/trard/test-dependence/blob/master/README.md#installation)
+    - [NPM](https://github.com/trard/test-dependence/blob/master/README.md#npm)
+    - [Yarn](https://github.com/trard/test-dependence/blob/master/README.md#yarn)
+2. [Example](https://github.com/trard/test-dependence/blob/master/README.md#example)
 
 ## Installation
 
-Using npm:
+### NPM
 
 ```shell
 npm i test-dependence
 ```
 
-Using yarn:
+### Yarn
 
 ```shell
 yarn add test-dependence
 ```
 
-## Using example
+## Example
 
 ```js
 const test = require('test-dependence');
